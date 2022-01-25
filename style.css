@@ -1,0 +1,41 @@
+.break-content {
+    border: 10px solid burlywood;
+    font-size: 32px;
+    font-family: "Courier New", Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: white;
+    background-color: rgb(223, 29, 29);
+    width: 180px;
+    height: 100px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+
+.activities-list-box {
+    background-color: burlywood;
+    border: 2px solid red;
+    padding: 4px;
+    margin: 2px;
+    box-sizing: border-box;
+
+}
+
+.activities-list-header, 
+.activities-list
+{ 
+    color: white;
+    font-family: Georgia;
+    text-align: center;
+    font-weight: bold;
+}
+
+.activities-list-header {
+    font-size: 30px;
+}
+
+.activities-list {
+    font-size: 26px;
+    list-style-position: inside;
+
+}
